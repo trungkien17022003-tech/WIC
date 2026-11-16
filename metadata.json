@@ -1,0 +1,6 @@
+{
+  "name": "Trình Cấu hình Thiệp Cưới 0đ",
+  "description": "Thiết kế cấu hình JSON, tạo câu lệnh SQL Supabase, và xem trước thiệp cưới tương tác thời gian thực.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
